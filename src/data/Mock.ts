@@ -51,7 +51,7 @@ export const groups: Group[] = [
       "Encontre os melhores seminovos com procedência garantida. Divulgamos ofertas de concessionárias parceiras e particulares verificados. Financiamento facilitado e entrada reduzida!",
     banner:
       "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Localiza Seminovos", "Webmotors", "iCarros", "OLX Autos"],
   },
@@ -64,7 +64,7 @@ export const groups: Group[] = [
       "As melhores ofertas de roupas, calçados e acessórios das principais marcas. Cupons exclusivos e promoções relâmpago todos os dias!",
     banner:
       "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Renner", "C&A", "Zara", "Shein", "Dafiti"],
   },
@@ -77,7 +77,7 @@ export const groups: Group[] = [
       "Tudo para seu esporte favorito! Equipamentos, roupas esportivas, suplementos e acessórios com os melhores preços do mercado.",
     banner:
       "https://images.unsplash.com/photo-1461896836934- voices-rising-cover?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Netshoes", "Centauro", "Decathlon", "Nike", "Adidas"],
   },
@@ -90,7 +90,7 @@ export const groups: Group[] = [
       "Móveis, eletrodomésticos e decoração para transformar sua casa. Ofertas verificadas das melhores lojas do Brasil!",
     banner:
       "https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Tok&Stok", "Etna", "MadeiraMadeira", "Mobly", "Casas Bahia"],
   },
@@ -103,7 +103,7 @@ export const groups: Group[] = [
       "Cosméticos, perfumes, maquiagens e produtos de skincare com descontos incríveis. Apenas produtos originais de lojas autorizadas!",
     banner:
       "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: [
       "Sephora",
@@ -122,7 +122,7 @@ export const groups: Group[] = [
       "Ofertas exclusivas para gamers! Consoles, jogos, periféricos, cadeiras gamer e muito mais. Promoções das principais lojas especializadas.",
     banner:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Kabum", "Pichau", "Terabyte", "Amazon Games", "Nuuvem"],
   },
@@ -135,7 +135,7 @@ export const groups: Group[] = [
       "Suplementos, equipamentos de academia e acessórios fitness com os melhores preços. Produtos originais e lojas verificadas!",
     banner:
       "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Growth", "Max Titanium", "Integral Médica", "Netshoes", "Amazon"],
   },
