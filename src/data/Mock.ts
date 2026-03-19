@@ -38,7 +38,7 @@ export const groups: Group[] = [
       "Grupo focado em ofertas de eletrônicos, smartphones, notebooks, periféricos e gadgets. Trabalhamos apenas com lojas confiáveis e verificamos cada oferta antes de compartilhar. Ofertas diárias com descontos reais de até 70%!",
     banner:
       "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop",
-    whatsappLink: "https://wa.me/11913521810",
+    whatsappLink: "https://wa.me/5511913521810",
     instagramLink: "https://www.instagram.com/orakpromo/",
     stores: ["Amazon", "Kabum", "Pichau", "Terabyte", "Magazine Luiza"],
   },
